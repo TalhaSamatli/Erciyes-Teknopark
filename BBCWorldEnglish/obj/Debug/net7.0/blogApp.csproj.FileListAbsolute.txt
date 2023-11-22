@@ -1,0 +1,340 @@
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\appsettings.Development.json
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\appsettings.json
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\blogApp.staticwebassets.runtime.json
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\blogApp.exe
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\blogApp.deps.json
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\blogApp.runtimeconfig.json
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\blogApp.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\blogApp.pdb
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.AssemblyInfoInputs.cache
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.AssemblyInfo.cs
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.csproj.CoreCompileInputs.cache
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.MvcApplicationPartsAssemblyInfo.cache
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.RazorAssemblyInfo.cache
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.RazorAssemblyInfo.cs
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.blogApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.build.blogApp.props
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.blogApp.props
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.blogApp.props
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\scopedcss\bundle\blogApp.styles.css
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\scopedcss\projectbundle\blogApp.bundle.scp.css
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.dll
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\refint\blogApp.dll
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.pdb
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.genruntimeconfig.cache
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\ref\blogApp.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\Humanizer.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\BackendDersleri\blogApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.csproj.AssemblyReference.cache
+C:\BackendDersleri\blogApp\obj\Debug\net7.0\blogApp.csproj.CopyComplete
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\appsettings.json
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\blogApp.staticwebassets.runtime.json
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\blogApp.exe
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\blogApp.deps.json
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\blogApp.runtimeconfig.json
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\blogApp.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\blogApp.pdb
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.AssemblyInfo.cs
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.RazorAssemblyInfo.cache
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.RazorAssemblyInfo.cs
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.blogApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.build.blogApp.props
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.blogApp.props
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.blogApp.props
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\scopedcss\bundle\blogApp.styles.css
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\scopedcss\projectbundle\blogApp.bundle.scp.css
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.csproj.CopyComplete
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\refint\blogApp.dll
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.pdb
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\blogApp.genruntimeconfig.cache
+C:\Users\PC\Downloads\BackendDersleri-main\BackendDersleri-main\blogApp\obj\Debug\net7.0\ref\blogApp.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.csproj.AssemblyReference.cache
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.AssemblyInfoInputs.cache
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.AssemblyInfo.cs
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.csproj.CoreCompileInputs.cache
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.RazorAssemblyInfo.cache
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.RazorAssemblyInfo.cs
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\refint\blogApp.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.pdb
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\appsettings.json
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\blogApp.staticwebassets.runtime.json
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\blogApp.exe
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\blogApp.deps.json
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\blogApp.runtimeconfig.json
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\blogApp.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\blogApp.pdb
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.blogApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.build.blogApp.props
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.blogApp.props
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.blogApp.props
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\scopedcss\bundle\blogApp.styles.css
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\scopedcss\projectbundle\blogApp.bundle.scp.css
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.csproj.CopyComplete
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\blogApp.genruntimeconfig.cache
+C:\Users\idare10\Desktop\dotnet\dotnet\Çalışan BlogApp\blogApp\obj\Debug\net7.0\ref\blogApp.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\blogApp.staticwebassets.runtime.json
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\blogApp.exe
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\blogApp.deps.json
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\blogApp.runtimeconfig.json
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\blogApp.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\blogApp.pdb
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Talha\Desktop\blogApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.AssemblyInfoInputs.cache
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.AssemblyInfo.cs
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.RazorAssemblyInfo.cache
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.RazorAssemblyInfo.cs
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.blogApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.build.blogApp.props
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.blogApp.props
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.blogApp.props
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\scopedcss\bundle\blogApp.styles.css
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\scopedcss\projectbundle\blogApp.bundle.scp.css
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.csproj.CopyComplete
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.dll
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\refint\blogApp.dll
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.pdb
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\blogApp.genruntimeconfig.cache
+C:\Users\Talha\Desktop\blogApp\obj\Debug\net7.0\ref\blogApp.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\appsettings.json
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\blogApp.staticwebassets.runtime.json
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\blogApp.exe
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\blogApp.deps.json
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\blogApp.runtimeconfig.json
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\blogApp.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\blogApp.pdb
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.AssemblyInfoInputs.cache
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.AssemblyInfo.cs
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.RazorAssemblyInfo.cache
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.RazorAssemblyInfo.cs
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\staticwebassets\msbuild.blogApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\staticwebassets\msbuild.build.blogApp.props
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.blogApp.props
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.blogApp.props
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\scopedcss\bundle\blogApp.styles.css
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\scopedcss\projectbundle\blogApp.bundle.scp.css
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.csproj.CopyComplete
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\refint\blogApp.dll
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.pdb
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\blogApp.genruntimeconfig.cache
+C:\Users\Talha\Desktop\BBCWorldEnglish\obj\Debug\net7.0\ref\blogApp.dll

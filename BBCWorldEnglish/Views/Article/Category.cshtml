@@ -1,0 +1,33 @@
+﻿@model List<Article>
+@{
+    ViewData["Title"] = "BBC World English";
+}
+
+<div class="text-left">
+    <h3 class="display-4">@Model[0].Category.CategoryName</h3>
+    <hr />
+    <div class="list-group">
+        @foreach (var article in Model)
+        {
+                <div class="row">
+                    <div class="col-sm-3">  
+                        <img src="~/img/@article.ArticleImage" alt="Article Image" class="img-fluid"
+                        style="object-fit: cover; max-width: 250px; max-height: 100px; width: 100%; height: 100%;">
+                    </div>
+                    <div class="col-sm-9">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">@article.ArticleTitle</h5>
+                            <small>@article.ArticlePublicationTime</small>
+                        </div>
+                        <p class="mb-1">@article.ArticleContent.Substring(0, Math.Min(article.ArticleContent.Length, 200))...</p>
+                        <div class="text-sm-end">
+                        <span class="badge bg-secondary align4-end">@article.Category.CategoryName</span>
+                        <a href="/Article/Article/@article.ArticleID">Read more</a>
+                        <small>Writer: @article.ArticleWriter.UserName</small>
+                        </div>
+                        <hr />
+                    </div>
+                </div>
+        }
+    </div>
+</div>

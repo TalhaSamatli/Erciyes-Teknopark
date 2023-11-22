@@ -1,0 +1,23 @@
+@model Article
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title">@Model.ArticleTitle</h3>
+                    <hr />
+                    <img src="~/img/@Model.ArticleImage" class="img-fluid" alt="Article Image">
+                    <p class="card-text mt-3">@Html.Raw(Model.ArticleContent)</p>
+                    <div class="text-muted">
+                        <small>Writer: @Model.ArticleWriter.UserName</small>
+                        <br />
+                        <small>Published date: @Model.ArticlePublicationTime.ToString("dd.MM.yyyy HH:mm")</small>
+                        <br />
+                        <small>Category: @Model.Category.CategoryName</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,132 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+         <style>
+        body {
+            background-color: #333; /* Dark background color */
+            color: #fff; /* Light text color */
+        }
+
+        .navbar {
+            background-color: #222; /* Dark navbar background color */
+        }
+
+        .navbar-nav .nav-link {
+            color: #fff !important; /* Light text color for navbar links */
+        }
+
+        .navbar-nav .nav-link:hover {
+            color: #ccc !important; /* Light text color for navbar links on hover */
+        }
+
+        .navbar-toggler-icon {
+            background-color: #fff; /* Light color for the navbar toggler icon */
+        }
+
+        .btn-primary {
+            background-color: #007bff; /* Primary button color */
+            color: #fff; /* Light text color for buttons */
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3; /* Darker color on hover */
+        }
+
+        .btn-secondary {
+            background-color: #6c757d; /* Secondary button color */
+            color: #fff; /* Light text color for buttons */
+        }
+
+        .btn-secondary:hover {
+            background-color: #545b62; /* Darker color on hover */
+        }
+
+        .btn-success {
+            background-color: #28a745; /* Success button color */
+            color: #fff; /* Light text color for buttons */
+        }
+
+        .btn-success:hover {
+            background-color: #218838; /* Darker color on hover */
+        }
+
+        .btn-danger {
+            background-color: #dc3545; /* Danger button color */
+            color: #fff; /* Light text color for buttons */
+        }
+
+        .btn-danger:hover {
+            background-color: #c82333; /* Darker color on hover */
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">BBC English</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1 mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home Page</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Categories/">Categories</a> 
+                        </li>                       
+                        <li class="nav-item">
+                            <a class="nav-link text-secondary" asp-area="" asp-controller="Article"
+                                asp-action="Archive">All articles</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav flex-grow-2 ml-auto">
+                        @if (User.Identity.IsAuthenticated)
+
+                        {
+                            <!-- Kullanıcı oturum açıkken çıkış yap butonu görüntüle -->
+                            <li class="nav-item">
+                                <a class="btn btn-success" asp-controller="Article" asp-action="Create" asp-area="">Add new article</a>
+                            </li>
+                            <li class="nav-item">
+                                <form method="post" asp-controller="Home" asp-action="Logout" asp-area="">
+                                    <button type="submit" class="btn btn-danger">Disconnect</button>
+                                </form>
+                            </li>
+                        }
+
+                        else
+
+                        {
+                            <!-- Kullanıcı oturum kapalıysa giriş yap butonu görüntüle -->
+                            <li class="nav-item">
+                                <a class="btn btn-dark" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
+                            </li>
+                        }
+                    </ul>                   
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

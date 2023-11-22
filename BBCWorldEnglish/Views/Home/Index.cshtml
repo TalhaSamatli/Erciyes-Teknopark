@@ -1,0 +1,31 @@
+﻿@model List<Article>
+@{
+    ViewData["Title"] = "BBC World English";
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h5>Welcome to 6 Minute English</h5>
+    <hr />
+    <div class="container mt-4">
+        <div class="row row-cols-1 row-cols-md-4 g-4">
+            @foreach (var article in Model)
+            {
+                <div class="col">
+                    <div class="card h-100">
+                        <a href="/Article/Article/@article.ArticleID">
+                            <img src="~/img/@article.ArticleImage" class="card-img-top" alt="Article Image">
+                        </a>
+                        <div class="card-body">
+                            <h5 class="card-title">@article.ArticleTitle</h5>
+                            <p class="card-text">@article.ArticleContent.Substring(0,
+                            Math.Min(article.ArticleContent.Length, 120))...</p>
+                        </div>
+                        <div class="card-footer">
+                            <small class="text-muted">Writer: @article.ArticleWriter.UserName</small>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>    
+</div>
